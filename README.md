@@ -1,7 +1,5 @@
 File explorer console project
-
 Possibilities:
-
 ╔═════════════════════════════════╦═══════════ CONTROL ═════════╦═════════════════════════════════╗
 ╠════ F2 - Rename file(s)         ║ Enter - Go to the directory ╠════ Z - Create Directory        ║
 ╠════ C  - Copy file              ║ UpArrow(↑)  - file above    ╠════ X - Create .txt file        ║
